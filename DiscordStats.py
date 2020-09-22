@@ -2,7 +2,7 @@ import pandas as pd
 import plotly
 import plotly.graph_objs as go
 
-person1 = "CupcakeRecipe"
+person1 = "person1"
 person2 = "Thorasine"
 daily = False
 messages = True
