@@ -1,3 +1,3 @@
 # DiscordStats
 Requirements:  
-personUsername.csv in the csv folder
+personUsername.csv in the resources folder
