@@ -1,5 +1,5 @@
 # discord-stats
-A script I wrote to visualize my chatting habits with my friends.
+A script to visualize my chatting habits with my friends.
 
 ![Example](https://i.imgur.com/tkNeFHX.png)
 
