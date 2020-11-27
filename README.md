@@ -1,5 +1,5 @@
 # discord-stats
-A script I wrote to visualize my chatting habits with my friends, using Pandas, Plotly and Numpy.
+A script I wrote to visualize my chatting habits with my friends, using pandas, plotly and numpy.
 
 ![Example](https://i.imgur.com/tkNeFHX.png)
 
