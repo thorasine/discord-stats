@@ -1,5 +1,5 @@
 # discord-stats
-A script I wrote to visualize my discord logs, using pandas, plotly and numpy.
+A script I wrote to visualize my Discord logs, using pandas, plotly and numpy.
 
 ![Example](https://i.imgur.com/tkNeFHX.png)
 
